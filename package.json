@@ -1,4 +1,4 @@
- {
+{
   "name": "pizza-2.0",
   "version": "1.0.0",
   "description": "Making our own realtime-pizza-app",
@@ -12,7 +12,8 @@
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
-    "express-ejs-layouts": "^2.5.1"
+    "express-ejs-layouts": "^2.5.1",
+    "laravel-mix": "^6.0.34"
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
